@@ -1,0 +1,37 @@
+@media (max-width: 480px) {
+    .modal-title {
+        font-size: 15px;
+    }
+    .mobile-title .mobile {
+        width: 90px;
+        font-size: 10px;
+        float: left;
+    }
+    .mobile_cart {
+        width: 90px;
+        font-size: 10px;
+        float: left;
+    }
+    .mobile_cart .cart {
+        width: 20px;
+        font-size: 10px;
+        height: 20px;
+    }
+    .mobile_cart input {
+        width: 25px;
+        color: black;
+        font-size: 12px;
+        height: 20px;
+    }
+    .mobile_cart .number {
+        width: 130px;
+    }
+    .check {
+        width: 180px;
+        font-size: 12px;
+        float: left;
+    }
+    .btn_delete {
+        font-size: 12px;
+    }
+}
